@@ -1,0 +1,4 @@
+node_modules
+coverage
+dist
+.github/workflows/deploy.yml.bak1
